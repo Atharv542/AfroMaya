@@ -13,7 +13,7 @@ export const HeroSection = () => {
         <img
           src={heroImage}
           alt="Fashion hero"
-          className="w-full h-full object-fit  object-center"
+          className="w-full h-full object-cover md:mt-15  object-center"
         />
       </div>
 
