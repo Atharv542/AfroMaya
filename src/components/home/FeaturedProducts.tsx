@@ -90,7 +90,7 @@ export const FeaturedProducts = () => {
           className="flex flex-col lg:flex-row lg:items-end lg:justify-between mb-12 lg:mb-16"
         >
           <div>
-            <p className="text-xs tracking-[0.3em] uppercase text-accent mb-4">
+            <p className="text-xs tracking-[0.3em] uppercase text-amber-500  mb-4">
               Featured
             </p>
             <h2 className="font-display text-3xl lg:text-5xl font-medium">
